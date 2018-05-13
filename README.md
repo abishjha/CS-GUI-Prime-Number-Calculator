@@ -5,7 +5,7 @@ A GUI application which will allow the user to request the number of prime numbe
 
 The following is a list of some of specs:
 
-1. When the user presses the start button, gets the end point number and does error checking. An exception is thrown and handled using a message box if number if not a positive integer.
+1. When the user presses the start button, gets the end point number and does error checking. A message box is shown if number is not a positive integer.
 
 2. Disables the start button and enables the cancel button.
 
